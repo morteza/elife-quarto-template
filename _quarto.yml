@@ -1,0 +1,14 @@
+project:
+  output-dir: ./outputs/
+  title: "eLife Template"
+  type: default
+
+bibliography: references.bib
+
+format: 
+  pdf: 
+    template: elife_template.tex
+    pdf-engine: pdflatex
+
+  latex: 
+    template: elife_template.tex

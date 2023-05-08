@@ -1,0 +1,17 @@
+---
+title: this is a template
+abstract: this is abstract
+author: FirstName LastName
+---
+
+# Introduction
+
+This is the body.
+
+## or the other ones
+Hello
+
+
+# Acknowledgements
+
+This is acknowledgements.

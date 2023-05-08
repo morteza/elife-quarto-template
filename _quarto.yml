@@ -7,8 +7,8 @@ bibliography: references.bib
 
 format: 
   pdf: 
-    template: elife_template.tex
+    template: elife-template.tex
     pdf-engine: pdflatex
 
   latex: 
-    template: elife_template.tex
+    template: elife-template.tex

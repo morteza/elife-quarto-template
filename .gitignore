@@ -1,2 +1,5 @@
 .quarto/
 outputs/
+
+/.quarto/
+*.suppinfo

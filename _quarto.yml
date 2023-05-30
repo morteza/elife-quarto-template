@@ -4,6 +4,7 @@ project:
   type: default
 
 bibliography: references.bib
+appendix: appendix.Rmd
 
 format: 
   pdf: 
